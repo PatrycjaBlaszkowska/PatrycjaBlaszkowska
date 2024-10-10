@@ -8,10 +8,35 @@
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PatrycjaBlaszkowska&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PatrycjaBlaszkowska&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrycjaBlaszkowska&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🚀 My Code Institute Milestone Projects:
+
+### 1. **[Milestone Project 1: User-Centric Frontend Development](Wizard's Tower)**
+   - **Technologies**: HTML5, CSS3, JavaScript
+   - **Description**: A responsive and accessible static website designed for a specific user audience. This project demonstrates my skills in frontend design, usability, and mobile-first development principles.
+   - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/project-WizardsTower)
+
+<hr>
+
+### 2. **[Milestone Project 2: Interactive Frontend Development](Gwent Memory Game)**
+   - **Technologies**: HTML5, CSS3, JavaScript
+   - **Description**: A dynamic, interactive web application with a focus on front-end functionality. This project showcases my ability to work with JavaScript to create real-time, user-driven experiences such as games, quizzes, or calculators.
+   - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/gwent-memory-game)
+
+<hr>
+
+### 3. **[Milestone Project 3: Data-Centric Backend Development](Mixology Master)**
+   - **Technologies**: Python, Flask, MongoDB, HTML5, CSS3
+   - **Description**: A full-stack web application focused on data management. Users can create, read, update, and delete (CRUD) data stored in a MongoDB database.
+   - This project highlights my understanding of server-side logic and database integration.
+   - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/mixology-master) 
+
+<hr>
+
+### 4. **[Milestone Project 4: Full-Stack Frameworks with Django](Gamer's Vault)**
+   - **Technologies**: Django, Python, PostgreSQL, HTML5, CSS3, Bootstrap
+   - **Description**: A fully functional e-commerce website built with Django, including user authentication, product management, shopping cart functionality, and Stripe payment integration. This project represents my ability to develop secure, scalable applications using the Django framework.
+   - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/gamers-vault) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
