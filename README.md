@@ -16,14 +16,14 @@
 ## 🚀 My Code Institute Milestone Projects:
 
 ### 1. **[Milestone Project 1: User-Centric Frontend Development](Wizard's Tower)**
-   - **Technologies**: HTML5, CSS3, JavaScript, Bootstrap
+   - **Technologies**: HTML5, CSS3, Bootstrap
    - **Description**: A responsive and accessible static website designed for a specific user audience. This project demonstrates my skills in frontend design, usability, and mobile-first development principles.
    - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/project-WizardsTower)
 
 <hr>
 
 ### 2. **[Milestone Project 2: Interactive Frontend Development](Gwent Memory Game)**
-   - **Technologies**: HTML5, CSS3, JavaScript, Bootstrap
+   - **Technologies**: HTML5, CSS3, Javascript, Bootstrap
    - **Description**: A dynamic, interactive web application with a focus on front-end functionality. This project showcases my ability to work with JavaScript to create real-time, user-driven experiences such as games, quizzes, or calculators.
    - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/gwent-memory-game)
 
@@ -31,8 +31,7 @@
 
 ### 3. **[Milestone Project 3: Data-Centric Backend Development](Mixology Master)**
    - **Technologies**: Python, Flask, PostgreSQL, HTML5, CSS3, Bootstrap
-   - **Description**: A full-stack web application focused on data management. Users can create, read, update, and delete (CRUD) data stored in a PostgreSQL database.
-   - This project highlights my understanding of server-side logic and database integration.
+   - **Description**: A full-stack web application focused on data management. Users can create, read, update, and delete (CRUD) data stored in a PostgreSQL database.This project highlights my understanding of server-side logic and database integration.
    - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/mixology-master) 
 
 <hr>
@@ -41,6 +40,13 @@
    - **Technologies**: Django, Python, PostgreSQL, HTML5, CSS3, Bootstrap, API
    - **Description**: A fully functional e-commerce website built with Django, including user authentication, product management, shopping cart functionality, and Stripe payment integration. This project represents my ability to develop secure, scalable applications using the Django framework.
    - [GitHub Repository](https://github.com/PatrycjaBlaszkowska/gamers-vault) 
+
+<hr>
+
+## 👩🏻‍💼 Visit My Personal Page!
+   - **Description**: Check out my personal portfolio to explore more about me, my projects, and my journey as a developer. You’ll also find blog posts, tutorials, and additional resources that reflect my passion for coding and creativity. Let’s connect and collaborate!
+
+[✨ Click here! ✨](https://patrycjablaszkowska.github.io/)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
