@@ -1,4 +1,4 @@
-[![Profile GIF](./profile-gif.gif)](https://patrycjablaszkowska.github.io/index.html)
+[![Profile GIF](profile-gif.gif)](https://patrycjablaszkowska.github.io/index.html)
 
 # 💫  Hi there, I'm Patrycja!
 
@@ -48,7 +48,8 @@ Check out my personal portfolio to explore more about me, my projects, and my jo
 
 [✨ Click here! ✨](https://patrycjablaszkowska.github.io/)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+![Pudgy Penguins GIF](pudgy-penquins-gif.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
