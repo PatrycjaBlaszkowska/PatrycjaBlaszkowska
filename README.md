@@ -1,4 +1,4 @@
-![Profile GIF](./profile-gif.gif)
+[![Profile GIF](./profile-gif.gif)](https://patrycjablaszkowska.github.io/index.html)
 
 # 💫  Hi there, I'm Patrycja!
 
