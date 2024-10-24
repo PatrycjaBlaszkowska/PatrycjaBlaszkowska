@@ -44,7 +44,7 @@
 <hr>
 
 ## 👩🏻‍💼 Visit My Personal Page!
-   - **Description**: Check out my personal portfolio to explore more about me, my projects, and my journey as a developer. You’ll also find blog posts, tutorials, and additional resources that reflect my passion for coding and creativity. Let’s connect and collaborate!
+Check out my personal portfolio to explore more about me, my projects, and my journey as a developer. Let’s connect and collaborate!
 
 [✨ Click here! ✨](https://patrycjablaszkowska.github.io/)
 
