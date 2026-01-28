@@ -55,6 +55,7 @@ I’m currently expanding my skill set by studying the **Cisco Network Technicia
 ---
 
 ⚡ **Fun fact**  
+
 I was born in Poland 🇵🇱 and English is my second language.  
 Learning to code and work with technical documentation in a second language has strengthened my attention to detail and problem-solving skills.
 
@@ -118,7 +119,7 @@ Project Planning • Documentation • Testing • Security Awareness
 
 ---
 
-✨ **My goal is to grow into a well-rounded computing professional — combining software development with networking, security, and applied IT knowledge to support real-world systems and users.**
+✨ **My goal is to grow into a well-rounded computing professional - combining software development with networking, security, and applied IT knowledge to support real-world systems and users.**
 
 ![Pudgy Penguins GIF](pudgy-penquins-gif.gif)
 
