@@ -4,7 +4,7 @@
 
 🔧 **Graduate Full-Stack Developer | Aspiring IT & Network Technician**
 
-🌐 You can see my [Personal Portfolio](patrycjablaszkowska.github.io) here!
+🌐 You can see my [Personal Portfolio](https://patrycjablaszkowska.github.io) here!
 
 ---
 
